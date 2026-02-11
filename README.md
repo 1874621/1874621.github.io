@@ -7,9 +7,14 @@ Personal blog powered by [Hexo](https://hexo.io/).
 If you encounter the error `net::ERR_CONNECTION_CLOSED` when using GitHub Copilot in VSCode, here are some common solutions:
 
 ### Error Message
+
+You may see an error message similar to this (note: the message may appear in Chinese or English depending on your system language):
+
 ```
-抱歉，出现网络错误。请稍后重试。
-原因: Please check your firewall rules and network connection then try again. 
+Sorry, a network error occurred. Please try again later.
+(抱歉，出现网络错误。请稍后重试。)
+
+Reason: Please check your firewall rules and network connection then try again. 
 Error Code: net::ERR_CONNECTION_CLOSED
 ```
 
