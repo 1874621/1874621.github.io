@@ -12,6 +12,7 @@
 原因: Please check your firewall rules and network connection then try again. 
 Error Code: net::ERR_CONNECTION_CLOSED
 ```
+*注意：错误消息可能会根据 VSCode 的语言设置显示为中英文混合格式*
 
 这是 VSCode 与 GitHub Copilot 服务之间的网络连接问题。以下是解决方案：
 

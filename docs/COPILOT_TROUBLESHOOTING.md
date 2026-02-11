@@ -178,7 +178,7 @@ rm -rf ~/.config/Code/User/globalStorage/github.copilot
 # 检查 VSCode 版本
 # 帮助 > 关于
 
-# 建议版本：1.85.0 或更高
+# 建议使用最新稳定版本
 
 # 更新 GitHub Copilot 扩展
 # 1. 打开扩展面板（Ctrl+Shift+X）

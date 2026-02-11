@@ -8,10 +8,11 @@ Personal blog powered by [Hexo](https://hexo.io/) and the [Butterfly](https://gi
 
 If you encounter the error message:
 ```
-抱歉，出现网络错误。请稍后重试。
-原因: Please check your firewall rules and network connection then try again. 
+Sorry, a network error occurred. Please try again later.
+Reason: Please check your firewall rules and network connection then try again. 
 Error Code: net::ERR_CONNECTION_CLOSED
 ```
+*Note: The actual error message may appear in your VSCode locale language (e.g., Chinese: "抱歉，出现网络错误。请稍后重试。")*
 
 This is a network connectivity issue between VSCode and the GitHub Copilot service. Here are the solutions:
 
